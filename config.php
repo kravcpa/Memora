@@ -11,6 +11,6 @@ return [
     ],
   ],
   'app' => [
-    'base_url' => '/memora',
+    'base_url' => '/public',
   ],
 ];
