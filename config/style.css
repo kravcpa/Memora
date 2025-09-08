@@ -1,0 +1,42 @@
+/* File: Config/style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+.header {
+    background-color: #f8f8f8;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.header img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.navbar {
+    background-color: #eee;
+    padding: 10px;
+}
+.navbar a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+}
+.navbar form {
+    display: inline;
+}
+.activity {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+.activity img {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.activity .username {
+    font-weight: bold;
+    margin-right: 5px;
+}
